@@ -1,0 +1,11 @@
+{
+    "config": {
+        "name": "Mini Project REPL",
+        "files": [
+            { "path": "src/N1.multiples-of-3-or-5.clj", "open?": true },
+            { "path": "deps.edn", "open?": false },
+            { "path": ".gitignore", "open?": false },
+            { "path": ".vscode/settings.json", "open?": false }
+        ]
+    }
+}
